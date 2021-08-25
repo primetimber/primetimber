@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @primetimber
+- 👀 I’m interested in lean & cost effective digital setups for small businesses, that avoids snake oil.
+- 🌱 I’m currently learning to use grav (twig - php) and a bit python.
+- 💞️ I’m looking to collaborate on nothing really, since I am not a programmer.
